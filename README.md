@@ -1,2 +1,3 @@
 # quest-av2
-Exercício proposto para a segunda AV
+Exercícios propostos para a segunda AV
+Aluno: Arthur Simões Malta Marques Silva
